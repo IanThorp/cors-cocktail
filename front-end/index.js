@@ -7,7 +7,7 @@ submitListener();
 
 function configureCORS() {
 	$.auth.configure({
-  	apiUrl: 'localhost:3000/api/v1'
+  	apiUrl: 'http://cocktail-calc.herokuapp.com/api/v1'
 	});
 }
 
