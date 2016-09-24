@@ -2,6 +2,7 @@ $(function(){
 
 configureCORS();
 submitListener();
+console.log("Ready");
 
 })
 
